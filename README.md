@@ -77,9 +77,9 @@ A segurança das informações dos jogadores é garantida por meio do Spring Sec
 
 Para determinar o vencedor de cada rodada, o sistema utiliza uma API externa que realiza a verificação das mãos e retorna o ganhador da rodada.
 
-Para rodar a API, siga os passos abaixo:
+Para rodar a API, siga os passos abaix:
 
-- Acesse o Repositório: Baixe o código do servidor no [Link Api GitHub](https://github.com/DaviidGilB/API_Poker).
+- Acesse o Repositório: Baixe o a pasta API POKER MASTER.
 
 - Abra o Projeto: Utilize uma ferramenta de sua preferência, como o VS Code. Navegue até a pasta do projeto.
 
