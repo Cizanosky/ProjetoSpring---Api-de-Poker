@@ -46,7 +46,7 @@ No Texas Hold'em, cada jogador recebe duas cartas e utiliza essas cartas em comb
       </section>
     </td>
     <td style="width: 30%;">
-      <img src="/Resource/pokerhands.jpg" alt="Foto das maos do poker" width="500">
+      <img src="ProjetoSpring---Api-de-Poker/pokerhands.jpg" alt="Foto das maos do poker" width="500">
     </td>
   </tr>
 </table>
