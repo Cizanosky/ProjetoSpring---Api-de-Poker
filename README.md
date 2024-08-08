@@ -106,5 +106,5 @@ Para rodar a API, siga os passos abaixo:
 
 ### Diagrama do Projeto
 <div align="center">
-  ![Imagem Diagrama Poker]([/ProjetoSpring/Poker_Diagrama.png](https://github.com/Cizanosky/ProjetoSpring---Api-de-Poker/blob/main/Poker_Diagrama.png))
+  <img src="https://github.com/Cizanosky/ProjetoSpring---Api-de-Poker/blob/main/Poker_Diagrama.png" alt="Foto das maos do poker" width="500">
 </div>
