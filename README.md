@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  ![Gif Poker](gifPoker.gif)
+  <img src="https://github.com/Cizanosky/ProjetoSpring---Api-de-Poker/blob/main/gifPoker.gif" alt="Foto das maos do poker" width="1000">
 </div>
 
 # API de Controle de Partida de Poker Texas Hold'em  ♣ ♥ ♠ ♦
@@ -106,5 +106,5 @@ Para rodar a API, siga os passos abaixo:
 
 ### Diagrama do Projeto
 <div align="center">
-  <img src="https://github.com/Cizanosky/ProjetoSpring---Api-de-Poker/blob/main/Poker_Diagrama.png" alt="Foto das maos do poker" width="500">
+  <img src="https://github.com/Cizanosky/ProjetoSpring---Api-de-Poker/blob/main/Poker_Diagrama.png" alt="Foto das maos do poker" width="1000">
 </div>
