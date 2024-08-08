@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  ![Gif Poker](/Resource/gifPoker.gif)
+  ![Gif Poker](gifPoker.gif)
 </div>
 
 # API de Controle de Partida de Poker Texas Hold'em  ♣ ♥ ♠ ♦
